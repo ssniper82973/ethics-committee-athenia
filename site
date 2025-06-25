@@ -22,8 +22,8 @@
         <nav class="main-navbar">
             <ul>
                 <li><a href="index.html">HOME</a></li>
-                <li><a href="wiki.html">WIKI</a></li>
-				<li><a href="support.html">SUPPORT US</a></li>
+                <li><a href="wiki.html">ARCHIVES</a></li>
+				<li><a href="support.html">MENU</a></li>
             </ul>
         </nav>
     </header>
