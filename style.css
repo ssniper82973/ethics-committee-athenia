@@ -250,10 +250,10 @@ body {
 
 .wiki-content p {
     font-size: 1rem;
-	margin-top: 0.3rem; /* MARINGIEN*/
-    margin-bottom: 0.8rem; /* eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee */
-    line-height: 1.7; /* dont touch or the entire fucking page will collapse*/
-    overflow: hidden; /* MOTHERFUCKER */
+	margin-top: 0.3rem; 
+    margin-bottom: 0.8rem; 
+    line-height: 1.7; 
+    overflow: hidden; 
 
 }
 
